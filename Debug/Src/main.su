@@ -1,0 +1,12 @@
+main.c:72:8:enter	8	static
+main.c:73:8:up	8	static
+main.c:74:8:down	8	static
+main.c:96:5:main	16	static
+main.c:690:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:702:6:SystemClock_Config	88	static
+main.c:747:13:MX_ADC1_Init	24	static
+main.c:792:13:MX_TIM1_Init	32	static
+main.c:838:13:MX_GPIO_Init	40	static
+main.c:879:6:Flash_Write	24	static
+main.c:888:10:Flash_Read	24	static
+main.c:900:6:Error_Handler	4	static

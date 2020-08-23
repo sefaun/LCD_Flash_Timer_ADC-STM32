@@ -1,0 +1,13 @@
+lcd.c:25:6:LCD_Delay	8	static
+lcd.c:30:6:lcd_cmd	16	static
+lcd.c:75:6:LCD_Char_CP	16	static
+lcd.c:120:6:LCD_Out_CP	16	static
+lcd.c:132:6:lcd_init	8	static
+lcd.c:155:6:LCD_Goto	16	static
+lcd.c:167:6:lcd_char	16	static
+lcd.c:173:6:lcd_printf	16	static
+lcd.c:179:6:main_menu	4	static
+lcd.c:284:6:tus_enter	8	static
+lcd.c:291:6:tus_up	8	static
+lcd.c:298:6:tus_down	8	static
+lcd.c:305:6:led	8	static
